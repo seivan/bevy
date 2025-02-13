@@ -129,7 +129,7 @@ impl Timer {
 
     /// Sets the elapsed time of the timer without any other considerations.
     ///
-    /// See also [`Stopwatch::set`](Stopwatch::set).
+    /// See also [`Stopwatch::set`](Stopwatch::set_elapsed).
     ///
     /// #
     /// ```
